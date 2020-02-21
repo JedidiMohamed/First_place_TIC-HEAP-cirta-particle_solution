@@ -1,7 +1,7 @@
 ### TIC-HEAP Cirta Particle Classification Challenge
 This challenge aimed to predict which type of particle is present in 10x10 images. The images are collected using detectors in the collider following many events ( collisions ).
     the metric for this challenge is : Log Loss
-And this is a description of our classification solution that achieved **first** place with a score of 1.521101146 on private learderboard.
+And this is a description of our classification solution that achieved **first** place with a score of 1.521101146 on private leaderboard.
 
 ###### Final solution :
 
